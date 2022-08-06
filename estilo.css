@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+}
+img{
+    /* /* border-radius: 50%; escrever assim para deixar borda redonda */
+    border: 8px solid gray;
+}
+
+.titulo{
+    font-size: 38px;
+    color: black;
+}
+.subtitulo{
+    font-size:28px;
+    color: blue;
+}
+.contato{
+    font-size:18px;
+    font-family:Arial;
+    font-weight: bold;
+    line-height: : 150%;
+}
+body{
+    background-color: lightgray;
+}
+}
+}
+}
+}
